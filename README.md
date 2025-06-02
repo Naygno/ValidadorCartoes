@@ -34,7 +34,7 @@ Cartão válido pelo Luhn?: Sim
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Naygno/ValidardorCartoes.git
+git clone https://github.com/Naygno/ValidadorCartoes.git
 ```
 2. Acesse a pasta do projeto:
 ```bash
