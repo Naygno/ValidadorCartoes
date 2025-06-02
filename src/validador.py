@@ -127,11 +127,3 @@ if __name__ == "__main__":
     else:
         print("Bandeira não identificada.")
     print("Cartão válido pelo Luhn?" , "Sim" if resultado["valido"] else "Não")
-
-# ---------------------------
-# Sugestões de simplificação:
-# ---------------------------
-# 1. Para a função luhn_check, pode-se usar list comprehensions e funções embutidas para tornar o código mais compacto.
-# 2. Para get_bandeira, pode-se usar dicionários ao invés de listas de tuplas para facilitar buscas e manutenção.
-# 3. O uso de expressões regulares pode ajudar na validação e extração de prefixos.
-# 4. Se a lista de prefixos crescer, considerar carregar de um arquivo externo (ex: JSON).
