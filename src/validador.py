@@ -127,3 +127,4 @@ if __name__ == "__main__":
     else:
         print("Bandeira não identificada.")
     print("Cartão válido pelo Luhn?" , "Sim" if resultado["valido"] else "Não")
+
