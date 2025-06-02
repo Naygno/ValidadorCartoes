@@ -19,7 +19,7 @@ Valide números de cartões de crédito e identifique a bandeira (Visa, MasterCa
 ## 🖼️ Demonstração
 
 <p align="center">
-<img src="./assets/imagem.png" width="300"/>
+<img src="./assets/imagem.png" width="500"/>
 </p>
 
 Exemplo de uso no terminal:
