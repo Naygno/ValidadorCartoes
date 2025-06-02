@@ -76,7 +76,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## 👥 Autores
 
-- **Seu Nome** - *Desenvolvedor Principal* - [Naygno](https://github.com/Naygno)
+- **Naygno Barbosa Noia** - *Desenvolvedor Principal* - [Naygno](https://github.com/Naygno)
 
 ## 📝 Observações
 
