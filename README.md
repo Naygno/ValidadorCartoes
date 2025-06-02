@@ -38,7 +38,7 @@ git clone https://github.com/Naygno/ValidadorCartoes.git
 ```
 2. Acesse a pasta do projeto:
 ```bash
-cd ValidardorCartoes
+cd ValidadorCartoes
 ```
 3. Instale as dependências:
 ```bash
