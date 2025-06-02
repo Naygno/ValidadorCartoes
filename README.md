@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## 🎛️ Uso
 
-Para validar um número de cartão e identificar a bandeira, execute o seguinte comando:
+Para validar um número de cartão e identificar a bandeira, dentro da pasta src, execute o seguinte comando:
 
 ```bash
 python validador.py <número_do_cartão>
