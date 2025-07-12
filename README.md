@@ -22,14 +22,6 @@ Valide números de cartões de crédito e identifique a bandeira (Visa, MasterCa
 <img src="./assets/imagem.png" width="500"/>
 </p>
 
-Exemplo de uso no terminal:
-
-```bash
-$ python validador.py 4111111111111111
-Bandeira: Visa
-Cartão válido pelo Luhn?: Sim
-```
-
 ## 🚀 Instalação
 
 1. Clone o repositório:
